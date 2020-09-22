@@ -21,7 +21,7 @@ This is Wellington, I am graduate Computer Science at Fluminense Federal Univers
 - 🌱 I’m currently learning constitutional right, administrative law and public administration 
 - 👯 I’m looking to collaborate on fun Python and Jekyll projects.
 - 💬 Ask about Information Technology or culture related.
-- 📫 How to reach me: wellingtons@id.uff.br or [__wellws__](twitter.com/__wellws__)
+- 📫 How to reach me: wellws@pm.me or [__wellws__](twitter.com/__wellws__)
 - 😄 Pronouns: He/Him
 
 ---
