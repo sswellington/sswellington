@@ -2,7 +2,7 @@
 
 ### Wellington Silva 🧔🖖
 <!-- nav -->
-| [🏠 Home](https://sswellington.github.io/sswellington/)
+| [🏠 Home](https://sswellington.github.io/)
 | [📝 Blog](https://sswellington.github.io/blog/)
 | [🤵 About](https://sswellington.github.io/sobre/)
 | [🐱 Github](https://github.com/sswellington)
