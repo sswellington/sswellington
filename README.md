@@ -8,6 +8,7 @@
 | [🐱 Github](https://github.com/sswellington)
 | [🐦 Twitter](https://twitter.com/__wellws__)
 | [💼 Linkedin](https://www.linkedin.com/in/sswellington/)
+| [👨‍🏫 Presentations](https://github.com/sswellington/presentations)
 | [📊 Photos](https://sswellington.github.io/photos/)
 | 
 
